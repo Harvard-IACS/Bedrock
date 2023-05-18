@@ -11,6 +11,7 @@ header:
     width: 500px;
   }
 </style>
+
 The objective of the BEDROCK DATA SCIENCE course is to provide you with the fundamental skills in math, statistics, and programming that you will need in order to undertake a course in machine learning, data science, or AI.
 
 
@@ -30,9 +31,3 @@ To make the most of this workshop, you'll want to be familiar with mathematical 
 
 **Don't know where to begin? We have a provided a list of resources to help you develop the confidence and skills** **to set you up for success!**
 
-
-
-## An Overview of the Materials
-
-
-  
