@@ -10,8 +10,6 @@ header:
   teaser: /assets/images/header/HeaderDesign1.jpeg
 --- 
 
-<div style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;">
-
 ### Vectors, Matrics, and Tensors
 
 To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
@@ -43,9 +41,6 @@ On the final day of the series we’ll be using some calculus. The concept of a 
   - "The Power Rule for Derivatives" by The Organic Chemistry Tutor ([YouTube](https://www.youtube.com/watch?v=9Yz-RCdS2Tg))
   - "The Chain Rule: Introduction" by Khan Academy ([Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction))  
 - With "The Essence of Calculus" playlist by 3Blue1Brown on [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), you can develop your intuition of the underpinnings and applications of calculus! While this material is not essential, it will help you to develop a strong understanding of the methods and uses of calculus, and serve as an important part of taking your experience with BEDROCK DATA SCIENCE into the next stage of your journey! 
-
-
-</div>
 
 
 
