@@ -15,17 +15,20 @@ header:
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNw6wnknMGJ-No3wpvh_1KGZ7BdvuUYAfthboMYwKWWMbfcg/viewform" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">Bedrock Data Science: Summer 2023 Sign-Up</a>
 
 
-**Instructor:**  Pavlos Protopapas, Scientific Program Director at Harvard's [IACS](https://iacs.seas.harvard.edu/) 
+**Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
+ 
 
 # Course Introduction
 
-Welcome! The objective of this course is to serve as a 'refresher' for fundamental concepts in math, statistics, & programming required to undertake a course in machine learning, data science, or A.I. similar to IACS's own [CS109a](TODO) or an equivalent.
+Welcome! The objective of this course is to serve as a 'refresher' for fundamental concepts in math, statistics, and programming required to undertake a course in machine learning, data science, or A.I. similar to Harvard's CS109a (Data Science 1) or an equivalent course.
 
-The course consists primarily of pre-recorded lecture and tutorial videos with accompanying coding exercises taken from a similar course offered by IACS in January of 2022.
+The course consists primarily of pre-recorded lectures and tutorial videos with accompanying coding exercises developed by Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
 
 Participation is entirely optional and you can progress through the material at your own pace. Don't worry if you are unable to participate or if you're unable to complete all parts of the course. This course will have no direct effect on any grades nor on your standing within your program. 
 
-As you progress in your learning journey, our friendly teaching staff will be here to support you through the course **[discussion forum](TODO)** as well as **online office hours** (schedule TBD).
+As you progress in your learning journey, our friendly teaching staff will be here to support you through the course discussion forum as well as live online office hours.
+
+The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!
 
 ## Course Overview 
 
