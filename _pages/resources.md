@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: Projects
-collection: projects
-permalink: /projects/
+title: Resrouces
+collection: resources
+permalink: /resources/
 entries_layout: grid
 classes: wide
 sort_by: sequence

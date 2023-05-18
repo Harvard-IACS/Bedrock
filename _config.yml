@@ -53,7 +53,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: projects
+      type: resources
     values:
       layout: single
       classes: wide
