@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header: 
-  overlay_image: /assets/images/SEC.png
+  overlay_image: /assets/images/BedRockPythons.png
   text_color: red
 ---
 

@@ -6,7 +6,7 @@ kind: projects
 excerpt: "Math & Statistics resources to prepare you for Bedrock"
 sequence: 1
 header: 
-  overlay_image: "/assets/images/SEC.png"
+  overlay_image: "/assets/images/BedRockPythons.png"
   teaser: /assets/images/header/HeaderDesign1.jpeg
 --- 
 
