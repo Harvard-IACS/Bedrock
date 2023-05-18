@@ -12,7 +12,7 @@ header:
   }
 </style>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdNw6wnknMGJ-No3wpvh_1KGZ7BdvuUYAfthboMYwKWWMbfcg/viewform" class="btn btn-info" role="button" style="margin-top: 20px; margin-bottom: 20px;">Bedrock Data Science: Summer 2023 Sign-Up Form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdNw6wnknMGJ-No3wpvh_1KGZ7BdvuUYAfthboMYwKWWMbfcg/viewform" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">Bedrock Data Science: Summer 2023 Sign-Up</a>
 
 
 **Instructor:**  Pavlos Protopapas, Scientific Program Director at Harvard's [IACS](https://iacs.seas.harvard.edu/) 
