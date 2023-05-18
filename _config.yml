@@ -41,10 +41,10 @@ plugins:
 
 include:
   - _pages
-  - _projects
+  - _resources
   
 collections:
-  projects:
+  _resources:
     output: true
     permalink: /:collection/:path/
 
