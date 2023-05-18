@@ -11,34 +11,58 @@ header:
     width: 500px;
   }
 </style>
-
-<div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
-AC299R (independent study) can be taken by students in the CSE program as an alternative to the AC297R capstone requirement for Spring 2023. We have compiled a list of project topics in data science and computational science for you to choose from. These projects will be completed under the supervision of instructors as specified for each project.
-
-</div>
-<br>
-
-## How will this work 
-<div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
-Students will work on these projects in teams. The instructor of each project will define the deliverables and the grading criteria. However, all projects will have some common themes such as:
+The objective of the BEDROCK DATA SCIENCE course is to provide you with the fundamental skills in math, statistics, and programming that you will need in order to undertake a course in machine learning, data science, or AI.
 
 
-<ul > 
-<li >Work in groups</li>
-<li >Open-ended problems with no pre-defined solutions</li>
-<li >Emphasis on clear presentation and storytelling</li>
-<li > Adoption of good software engineering practices </li>
-<li > Preservation of the project and ideas</li>
-<li >Time and scope management</li>
+You will begin with the basics of Python, statistics, probability, linear algebra, and calculus, and then apply those basics to topics like Numpy, Pandas, derivatives, and optimization.  **TODO: consult new structure of content**
 
-</ul>
-</div>
+At the end of the course, you will have the tools to tackle a rigorous course in machine learning, data science, or AI, along with the confidence and hands-on training you’ll need to take your learning to the next level.
 
-## How to take this course
-<div style="font-family:Karla; font-size:1.2rem; color:#707070;line-height:1.6;"> 
-To take this course, you will need to complete two tasks before registration: creating a team and selecting a project.
-We have created a simple <a href="https://docs.google.com/spreadsheets/d/1VMw0Wou4Eb2wP_7udE0FyY6C28h9WQaqF1Ke01AwG74/edit?usp=sharing">Google Sheet</a> where you can view the interests of other students and connect with them to form a team.
+BEDROCK DATA SCIENCE takes place asynchronously in approximately two-hour sessions. Led by IACS Scientific Program Director Pavlos Protopapas, the program will give you access to a team of teaching fellows, live Q\&A, personalized break-out sessions, and a library of resources. 
 
-<br> <br> 
-Finally, to take this project as an alternative to the capstone requirement, you will need to register for AC299R and inform Daniel and Pavlos that you will be taking one of these projects. 
-</div>
+To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
+
+
+
+##### Part of knowing where you are going is knowing where to begin and we are here to help you plan those first steps and get the most out of your BEDROCK DATA SCIENCE experience. 
+
+**While BEDROCK DATA SCIENCE assumes little to no previous programming experience and will cover the basics of variables, operators, and functions,** **you can make the most of this series with a brief review of major math topics listed below.** 
+
+**Don't know where to begin? We have a provided a list of resources to help you develop the confidence and skills** **to set you up for success!**
+
+
+
+## An Overview of the Materials
+
+### Vectors, Matrics, and Tensors
+
+To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
+
+- "Vectors: Essence of Linear Algebra" by 3Blue1Brown ([YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2))
+- "So... What actually is a Matrix?: Data Science Basics" by ritvikmath ([YouTube](https://www.youtube.com/watch?v=hEQ6j0eRDtg))
+- "Matrix Operations" by patrickJMT ([YouTube](https://www.youtube.com/watch?v=EFApWAl3NJw))
+- "What's a Tensor?" by Dan Fleisch ([YouTube](https://www.youtube.com/watch?v=f5liqUk0ZTw))
+
+### Mathematical Notation
+
+Appreciating many of the examples presented in this series will require familiarity with sigma notation and subscripting of variables. You can brush up on the basics and then use the practice examples from MIT OpenCourseWare to test your skills.
+
+- "Subscripts in Mathematics" by Always Learning ([YouTube)](https://www.youtube.com/watch?v=dOi1UOkj_ik)
+- "Sigma Notation Introduction" by Kirk Taylor ([YouTube](https://www.youtube.com/watch?v=lQZY4pD8X6I))
+- "Summation Notation Practice" by MIT OpenCourseWare ([YouTube](https://www.youtube.com/watch?v=iHErQuZ8M-I))
+
+### Calculus
+
+On the final day of the series we’ll be using some calculus. The concept of a derivative will be reintroduced and briefly defined, and you'll then be using a few basic calculus rules (and vector/matrix operations described earlier) to optimize your machine learning model. Reviewing the idea of a derivative and some basic derivative rules might help reduce math anxiety (and give you a leg up on working on your models).
+
+- Derivatives: "Newton, Leibniz, and Usain Bolt: Defining average and instantaneous rates of change at a point" by Khan Academy ([Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/newton-leibniz-and-usain-bolt))
+- "Definition of the derivative" by The Organic Chemistry Tutor ([YouTube](https://www.youtube.com/watch?v=-aTLjoDT1GQ))
+- Know the Rules: Basic Derivative Rules Review
+  - "Basic Differentiation Formulas for Calculus 1" by The Math Sorcerer ([YouTube](https://www.youtube.com/watch?v=OLyeTUZDH-o))
+  - "Differentiation Rules: Power/Product/Quotient/Chain" by MathReview101 ([YouTube](https://www.youtube.com/watch?v=esxNDR1epeo))
+  - "Basic Differentiation Rules for Derivatives" by The Organic Chemistry Tutor ([YouTube](https://www.youtube.com/watch?v=IvLpN1G1Ncg))
+  - "Power Rule: Applying the Power Rule" by Khan Academy ([Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-5/v/power-rule))
+  - "The Power Rule for Derivatives" by The Organic Chemistry Tutor ([YouTube](https://www.youtube.com/watch?v=9Yz-RCdS2Tg))
+  - "The Chain Rule: Introduction" by Khan Academy ([Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction))  
+- With "The Essence of Calculus" playlist by 3Blue1Brown on [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), you can develop your intuition of the underpinnings and applications of calculus! While this material is not essential, it will help you to develop a strong understanding of the methods and uses of calculus, and serve as an important part of taking your experience with BEDROCK DATA SCIENCE into the next stage of your journey! 
+  
