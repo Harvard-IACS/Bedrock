@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header: 
-  overlay_image: /assets/images/bridge.jpg
+  overlay_image: /assets/images/SEC.png
   text_color: red
 ---
 

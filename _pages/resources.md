@@ -11,6 +11,7 @@ header:
 --- 
 
 <div style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;">
+
 ### Vectors, Matrics, and Tensors
 
 To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
