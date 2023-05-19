@@ -7,20 +7,16 @@ excerpt: "Math & Statistics resources to prepare you for Bedrock"
 sequence: 1
 header: 
   overlay_image: /assets/images/BedrockPythons.png
-  teaser: /assets/images/header/HeaderDesign1.jpeg
 --- 
+To optimize your workshop experience, it is beneficial to have familiarity with mathematical notation for multidimensional objects such as vectors, matrices, and tensors. While a deep understanding of linear algebra is not required, having a grasp of how vectors represent direction and magnitude, as well as basic operations involving vectors and matrices, will be advantageous.
 
-To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
+Knowing where to begin is crucial in reaching your destination, and we are here to assist you in planning those initial steps and maximizing your Bedrock data science experience.
 
-**Part of knowing where you are going is knowing where to begin and we are here to help you plan those first steps and get the most out of your BEDROCK DATA SCIENCE experience.**
+Although Bedrock assumes minimal programming knowledge and will cover fundamental concepts like variables, operators, and functions, you can enhance your understanding of the series by briefly reviewing the topics listed below.
 
-**While BEDROCK DATA SCIENCE assumes little to no previous programming experience and will cover the basics of variables, operators, and functions,** **you can make the most of this series with a brief review of major math topics listed below.** 
 
-**Don't know where to begin? We have a provided a list of resources to help you develop the confidence and skills** **to set you up for success!**
 
 ### Vectors, Matrics, and Tensors
-
-To make the most of this workshop, you'll want to be familiar with mathematical notation for multidimensional objects like vectors, matrices, and tensors. A deep knowledge of Linear Algebra is not required, but understanding how vectors represent a direction and magnitude, and how basic operations using vectors and matrices are performed, will be helpful.
 
 - "Vectors: Essence of Linear Algebra" by 3Blue1Brown ([YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2))
 - "So... What actually is a Matrix?: Data Science Basics" by ritvikmath ([YouTube](https://www.youtube.com/watch?v=hEQ6j0eRDtg))
@@ -37,7 +33,7 @@ Appreciating many of the examples presented in this series will require familiar
 
 ### Calculus
 
-On the final day of the series we’ll be using some calculus. The concept of a derivative will be reintroduced and briefly defined, and you'll then be using a few basic calculus rules (and vector/matrix operations described earlier) to optimize your machine learning model. Reviewing the idea of a derivative and some basic derivative rules might help reduce math anxiety (and give you a leg up on working on your models).
+During the final days of the series we’ll be using some calculus. The concept of a derivative will be reintroduced and briefly defined, and you'll then be using a few basic calculus rules (and vector/matrix operations described earlier) to optimize your machine learning model. Reviewing the idea of a derivative and some basic derivative rules might help reduce math anxiety (and give you a leg up on working on your models).
 
 - Derivatives: "Newton, Leibniz, and Usain Bolt: Defining average and instantaneous rates of change at a point" by Khan Academy ([Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/newton-leibniz-and-usain-bolt))
 - "Definition of the derivative" by The Organic Chemistry Tutor ([YouTube](https://www.youtube.com/watch?v=-aTLjoDT1GQ))
