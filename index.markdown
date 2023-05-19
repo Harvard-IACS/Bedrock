@@ -34,7 +34,6 @@ As you progress in your learning journey, our friendly teaching staff will be he
 <div style="display: inline-block; text-decoration: none; border-style: solid; border-color #872222; padding: 10px 20px; margin: 10px 0; cursor: pointer;">
 The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
 </center>
-</br>
 
 To make the learning experience enjoyable and engaging, we will be rewarding students who excel in completing quizzes/exercises and actively participate in the forum with special awards. On July 15, we will host a live session with the teaching staff to discuss progress, answer questions, and announce the mid-summer winners. These winners will receive exclusive Bedrock t-shirts. 
 
