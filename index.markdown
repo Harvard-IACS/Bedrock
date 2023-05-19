@@ -30,6 +30,8 @@ Participation is entirely optional and you can progress through the material at 
 
 As you progress in your learning journey, our friendly teaching staff will be here to support you through the course discussion forum as well as live online office hours.
 
+You can use the sign-up form linked above to request access to the course. Once approved, you'll receive an email with further instructions.
+
 <center>
 <div style="display: inline-block; text-decoration: none; border-style: solid; border-color #872222; padding: 10px 20px; margin: 10px 0; cursor: pointer;">
 The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
