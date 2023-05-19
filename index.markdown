@@ -17,68 +17,29 @@ header:
 </center>
 
 **Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
- 
+
 
 # Course Introduction
 
 Welcome! The objective of this course is to serve as a 'refresher' for fundamental concepts in math, statistics, and programming required to undertake a course in machine learning, data science, or A.I. similar to Harvard's CS109a (Data Science 1) or an equivalent course.
 
-The course consists primarily of pre-recorded lectures and tutorial videos with accompanying coding exercises developed by Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
+The course consists primarily of pre-recorded lectures and tutorial videos with accompanying coding exercises.
 
-Participation is entirely optional and you can progress through the material at your own pace. Don't worry if you are unable to participate or if you're unable to complete all parts of the course. This course will have no direct effect on any grades nor on your standing within your program. 
+Participation is entirely optional and you can progress through the material at your own pace.  This course will have no effect on any grades nor on your standing within your program. 
 
 As you progress in your learning journey, our friendly teaching staff will be here to support you through the course discussion forum as well as live online office hours.
 
 The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!
 
+[TODO: ADD ABOUT A MID-SUMMER CHECK-IN AND AWARDS ETC ] 
+
 ## Course Overview 
 
 - Basic Python: Data types, data structures, functions
-- Advanced Python: Python Classes
-- Probability & Statistics
-- Linear Algebra & Calculus
-- Linear Regression
-
-**Detailed Topics:**
-
-**Python:**
-
-- Python operators, loops & iterators 
-- Python data structures such as sets, lists, dictionaries 
-- Python functions & classes
-- Code debugging, third party modules 
-- NumPy - Numerical Python
-- Pandas - tabular data in Python
-
-**Stats & Probability**
-
-- Random Variable
-- Probability Density Function
-- Some ‘standard’ distributions and their mean/stdev (Normal, Binomial)
-- Properties of mean and variance
-
-**Calculus:**
-
-- Derivatives (including partial)
-- What does ‘linear’ mean?
-- Properties of linear models
-
-**Linear Algebra:**
-
-- Matrix Operations
-  - Matrix Multiplication
-  - Matrix Inverse
-  - Transpose
-  - Dot Product
-- Linear Combinations
-
-**Linear Regression:**
-
-- Loss Function
-- Optimization
-- Design Matrix
-- Multiple Linear Regression
-- Train/Test Split
+- Advanced Python: Classes, dunder methods, decorators
+- Python Libraries: Pandas, Matplotlib, Numpy, sklearn 
+- Basic Probability & Statistics: Random Variable, Probability Density Functions and Mass Density Functions, point estimates 
+- Basic Linear Algebra & Calculus
 
 # Prerequisites
 
@@ -88,7 +49,7 @@ Some prior programming experience in any language and previous exposure to calcu
 
 ## Lessons
 
-The learning materials for each topic are bundled into Ed [lessons](TODO). Lessons will help students develop the intuition for core concepts, providing the necessary mathematical background, guidance on technical details, and relevant examples. You can start right now with [Lesson 1](TODO)!
+The learning materials for each topic are bundled. Lessons will help students develop the intuition for core concepts, providing the necessary mathematical background, guidance on technical details, and relevant examples. 
 
 ## Reading Assignments and Video Assignments 
 
@@ -98,13 +59,13 @@ Each session may have a short 'reading check' at the beginning which covers the 
 
 ## Quizzes & Exercises
 
-- Most lessons also include exercises and quizzes. Quizzes are for self assessment. The exercises can be attempted as many times as you wish.
+Most lessons also include exercises and quizzes. Quizzes are for self assessment. The exercises can be attempted as many times as you wish.
 
 # Course Policies
 
 ## Getting Help
 
-For questions about homework, course content, package installation, after you have tried to troubleshoot yourselves, the process to get help is:
+For questions about course content, package installation, after you have tried to troubleshoot yourselves, the process to get help is:
 
 - Post the question on the [course discussion forum](TODO). Note that forum posts are visible to everyone. The teaching staff monitors the posts. You are encouraged to answer your peers' questions! 😁 
 - Attend an online office hour (schedule TBD).
