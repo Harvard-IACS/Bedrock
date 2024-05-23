@@ -14,7 +14,7 @@ header:
 </style>
 
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdNw6wnknMGJ-No3wpvh_1KGZ7BdvuUYAfthboMYwKWWMbfcg/viewform" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">Bedrock Data Science: Summer 2023 Sign-Up Form</a>
+<a href="https://forms.gle/MN7DrFHMER1E3TWF6" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">Bedrock Data Science: Summer 2024 Sign-Up Form</a>
 </center>
 
 **Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
@@ -34,20 +34,14 @@ You can use the sign-up form linked above to request access to the course. Once 
 
 <center>
 <div style="display: inline-block; text-decoration: none; border-style: solid; border-color #872222; padding: 10px 20px; margin: 10px 0; cursor: pointer;">
-The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
+The course will begin on Monday, June 17th.</div>
 </center>
-
-To make the learning experience enjoyable and engaging, we will be rewarding students who excel in completing quizzes/exercises and actively participate in the forum with special awards. On July 15, we will host a live session with the teaching staff to discuss progress, answer questions, and announce the mid-summer winners. These winners will receive exclusive Bedrock t-shirts. 
-
-Lastly, on August 20th, we will hold the final Bedrock session, during which we will reveal the overall winners. The ultimate prize for the winners will be an exclusive dinner with the instructor at a location in Cambridge.
-
-
 
 ## Course Overview 
 
 - Basic Python: Data types, data structures, functions
 - Advanced Python: Classes, dunder methods, decorators
-- Python Libraries: Pandas, Matplotlib, Numpy, sklearn 
+- Python Libraries: Pandas, Matplotlib, Numpy, SKLearn 
 - Basic Probability & Statistics: Random Variable, Probability Density Functions and Mass Density Functions, point estimates 
 - Basic Linear Algebra & Calculus
 
